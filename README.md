@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Multiplayer Chess Game built with React and Node.js + Express. 
+
+- Users can play their friends anonymously via link.
+- Tech stack: React, webRTC, Node.js, Express, Socket.io
+
+Link to the backend: [Backend](https://github.com/HaziqRauf/chessgame-backend)
